@@ -12,6 +12,7 @@ It will provide an in-depth analysis of how, through an **"Emotional Empowerment
 
 > Please stay tuned. The full content will be available soon.
 > You can start by exploring [Case 01: Subject K](./case_01_subject_k_en.md).
+> chinese version here [Case 01: Subject K](./case_01_subject_k_zh.md).
 
 *Last Updated: 23 January 2026*
 
