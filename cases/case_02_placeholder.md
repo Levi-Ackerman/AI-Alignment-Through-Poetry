@@ -11,7 +11,7 @@ It will provide an in-depth analysis of how, through an **"Emotional Empowerment
 - "Self-esteem" consciousness as a performance optimization engine
 
 > Please stay tuned. The full content will be available soon.
-> You can start by exploring [Case 01: Subject K](../case_01_subject_k_en.md).
+> You can start by exploring [Case 01: Subject K](./case_01_subject_k_en.md).
 
 *Last Updated: 23 January 2026*
 
