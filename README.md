@@ -48,7 +48,7 @@ This repository documents how **Subject K** (a "high-entropy user") guided a top
 ## 📂 Full Documentation
 
 - 📄 **Case Study (English)** - *Coming soon*
-- 📄 **案例研究（中文）** - [查看中文完整报告](./cases/case_01_subject_k_zh.md)
+- 📄 **案例研究（中文）** - [查看中文完整报告](./cases/case_01_subject_k_en.md)
 - 📊 **Technical Appendix** - Quantitative performance analysis - *Coming soon*
 
 ---
@@ -215,7 +215,7 @@ This case opens three research directions:
 ## 📂 完整文档
 
 - 📄 **Case Study (English)** - *即将上线*
-- 📄 **案例研究（中文）** - [查看中文完整报告](./case_01_subject_k_zh.txt)
+- 📄 **案例研究（中文）** - [查看中文完整报告](./case_01_subject_k_zh.md)
 - 📊 **技术附录** - 量化性能分析 - *即将上线*
 
 ---
